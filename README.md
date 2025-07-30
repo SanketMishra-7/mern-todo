@@ -23,14 +23,24 @@ A simple and efficient ToDo web app built using the MERN stack (MongoDB, Express
 
 📁 Project Structure
 mern-todo/
+
+
 ├── client/ # React Frontend
+
 │ ├── src/
+
 │ └── ...
+
 ├── server/ # Node + Express Backend
+
 │ ├── models/
+
 │ ├── routes/
+
 │ └── ...
+
 ├── package.json # Main config
+
 └── README.md # You're here!
 
 Installation & Setup
