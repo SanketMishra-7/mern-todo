@@ -45,27 +45,44 @@ mern-todo/
 
 Installation & Setup
 1. Clone the repository
+
+   
 git clone https://github.com/SanketMishra-7/mern-todo.git
+
 cd mern-todo
 
 2. Backend Setup
+
+
 cd server
+
+
 npm install
 
 Then create a .env file inside the server folder and add the following:
+
 MONGO_URI=your_mongo_atlas_url
+
 JWT_SECRET=your_jwt_secret
 
 To run backend:
+
 npx nodemon server.js
 
+
 3. Frontend Setup
+   
 cd client
+
 npm install
+
 npm start
 
+
 Author
+
 Made by Sanket Mishra
 
-📃 License
-This project is open-source and free to use.
+License
+
+Copyright (c) 2025 Sanket Mishra
